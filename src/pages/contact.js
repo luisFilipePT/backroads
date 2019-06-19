@@ -1,7 +1,9 @@
 import React from 'react'
 
+import Layout from "../components/Layout"
+
 const contact = () => {
-  return <div>Hello from the contact page</div>
+  return <Layout>Hello from the contact page</Layout>
 }
 
 export default contact
