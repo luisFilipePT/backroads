@@ -1,3 +1,6 @@
+# Idea
+.idea/*
+
 # Logs
 logs
 *.log
@@ -53,6 +56,7 @@ typings/
 
 # dotenv environment variables file
 .env
+.env.development
 
 # gatsby files
 .cache/
